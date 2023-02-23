@@ -20,7 +20,7 @@
         "php": ">=7.3",
         "ext-json": "*",
         "axy/errors": "^2.1",
-        "axy/codecs-base64vlq": "dev-duobox"
+        "axy/codecs-base64vlq": "^2.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
