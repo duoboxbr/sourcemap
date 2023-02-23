@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.3",
         "ext-json": "*",
-        "axy/errors": "^3.0",
+        "axy/errors": "^2.1",
         "axy/codecs-base64vlq": "^2.0"
     },
     "require-dev": {
